@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- https://p1.pxfuel.com/preview/564/369/76/egyptian-museum-mummy-antiquity.jpg-->
+<!--https://quotepark.com/media/authors/dwayne-johnson.jpeg-->
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <style>
+    
+
+    </style>
+  <body>
+     <div class="thediv">
+  <h1> The Pharoah </h1>
+</div>
+   <div>
+   <img class="mummy" src=https://p1.pxfuel.com/preview/564/369/76/egyptian-museum-mummy-antiquity.jpg width="300">
+   </div>
+   <p> How will this <span style="color:blue;">half undead</span>,  <span style="color:blue;">half mummified</span> pharoah do against the humans?</p>
+  <img src="https://quotepark.com/media/authors/dwayne-johnson.jpeg" width="300">
+  <p> This is john </p>
+<p> Can john defeat the pharoah in the search for the tomb?</p>
+   <p> In a world where everything is at peace how will john the destroyer survive against the killer pharoah looking for a special tomb.</p>
+     <p> Can john the destroyer beat the pharoah in the search to the tomb</p>
+     <p> Come take part in the <span style="color:blue;font-weight:bold">EPIC</span> fight against hor!
+     <img src="https://live.staticflickr.com/7577/15852385156_a9b86719be_b.jpg" width="300">
+     <p>This is bill</p>
+<p>John's right hand man a little timid but full of energy overall an average man.. until Jon asks him to join him on a wild adventure with thinking Bill says yes unknowingly he will have the time of his life drama with horror</p>
+     <h3> Come subscribe for more <h3>
+     
+    
+    <form action="/Submit">
+    <input type="text" placeholder="Text here">
+    <button type="submit">Submit</button>
+
+     
+
+     
+
+     
+
+    <script src="script.js"></script>
+  </body>
+</html>
